@@ -84,6 +84,6 @@
 
 | 微信打赏 | 支付宝打赏 |
 | :---: | :---: |
-| ![微信收款码](images/wechat-reward.png) | ![支付宝收款码](images/alipay-reward.png) |
+| ![微信收款码](images/weixin.png) | ![支付宝收款码](images/zhifubao.png) |
 
 > 所有文章首发于 GitHub，原创不易，转载烦请注明出处。
