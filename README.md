@@ -25,17 +25,17 @@
 ### 1. 热水袋（日用）
 白天灌热水，别在裤腰带处，持续温热敷腰部。
 
-![热水袋](images/hot-water-bottle.jpg)
+![热水袋](images/reshuidai.png)
 
 ### 2. 暖宝宝（夜用）
 晚上贴一片在疼痛位置，整夜温热，帮助消水肿、活气血。
 
-![暖宝宝](images/warm-patch.jpg)
+![暖宝宝](images/luanbaobao.png)
 
 ### 3. 腰枕（睡觉时用）
 垫在腰下，来回调节位置，释放整个脊柱的压力，还能起到矫形和锻炼作用。
 
-![腰枕](images/lumbar-pillow.jpg)
+![腰枕](images/yaozheng.png)
 
 ---
 
